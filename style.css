@@ -28,7 +28,7 @@ h1 {
 
 .box {
     background-color: rgba(0, 0, 255, 0.181);
-    height: 750px;
+    height: 770px;
     width: 500px;
     padding: 20px;
     margin: 1% 30%;
@@ -84,4 +84,11 @@ button {
 }
 .c1 input{
     margin-right:10px ;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
